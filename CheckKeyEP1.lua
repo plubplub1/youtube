@@ -1,4 +1,4 @@
-(getgenv()).Key = "คีย์ที่ตั้ง"
+(getgenv()).Key = "your key"
 
 local keys = {
     "iheretuu123",
